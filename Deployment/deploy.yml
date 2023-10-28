@@ -21,6 +21,6 @@
     ansible_python_interpreter: /usr/bin/python3
   tasks:
     - name: Pull image
-      shell: docker pull likhith28/calculator:latest
+      shell: docker pull sahithi008/calculator:latest
     - name: Running container
       shell: docker run -it -d --name scientific sahithi008/calculator
