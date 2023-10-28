@@ -23,4 +23,4 @@
     - name: Pull image
       shell: docker pull sahithi008/calculator:latest
     - name: Running container
-      shell: docker run -it -d --name scientific sahithi008/calculator
+      shell: docker run -it -d --name calculator sahithi008/calculator
