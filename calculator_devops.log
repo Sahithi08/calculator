@@ -1,0 +1,11 @@
+2023-10-29 15:33:21.624 [main] INFO  org.example.Main - program started
+2023-10-29 15:33:33.222 [main] INFO  org.example.Main - addition completed
+2023-10-29 15:33:33.226 [main] INFO  org.example.Main - program completed
+2023-10-29 15:34:05.310 [main] INFO  org.example.Main - program started
+2023-10-29 15:34:10.240 [main] INFO  org.example.Main - multiplication completed
+2023-10-29 15:34:10.242 [main] INFO  org.example.Main - program completed
+2023-10-29 15:34:21.962 [main] INFO  org.example.Main - program started
+2023-10-29 15:34:32.526 [main] WARN  org.example.Main - division by zero error
+2023-10-29 15:42:41.377 [main] INFO  org.example.Main - program started
+2023-10-29 15:42:52.542 [main] INFO  org.example.Main - addition completed
+2023-10-29 15:42:52.547 [main] INFO  org.example.Main - program completed
