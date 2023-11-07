@@ -9,11 +9,9 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter first number: ");
-        System.out.flush();
         double num1 = scanner.nextDouble();
 
         System.out.print("Enter second number: ");
-        System.out.flush();
         double num2 = scanner.nextDouble();
 
         System.out.println("Choose operation: ");
