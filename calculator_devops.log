@@ -15,3 +15,6 @@
 2023-11-11 17:36:56.985 [main] INFO  org.example.Main - program started
 2023-11-11 17:37:04.704 [main] INFO  org.example.Main - multiplication completed
 2023-11-11 17:37:04.707 [main] INFO  org.example.Main - program completed
+2023-11-11 17:41:49.074 [main] INFO  org.example.Main - program started
+2023-11-11 17:41:55.932 [main] INFO  org.example.Main - multiplication completed
+2023-11-11 17:41:55.934 [main] INFO  org.example.Main - program completed
