@@ -9,3 +9,6 @@
 2023-10-29 15:42:41.377 [main] INFO  org.example.Main - program started
 2023-10-29 15:42:52.542 [main] INFO  org.example.Main - addition completed
 2023-10-29 15:42:52.547 [main] INFO  org.example.Main - program completed
+2023-11-11 17:25:44.982 [main] INFO  org.example.Main - program started
+2023-11-11 17:25:49.596 [main] INFO  org.example.Main - division completed
+2023-11-11 17:25:49.598 [main] INFO  org.example.Main - program completed
