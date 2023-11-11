@@ -24,4 +24,4 @@
       shell: docker pull sahithi008/calculator:latest
     - name: Running container
       # shell: docker run -it -d --name calculator sahithi008/calculator
-      shell: docker create -it --name calculator prudhveee/calculator
+      shell: docker create -it --name calculator sahithi08/calculator
