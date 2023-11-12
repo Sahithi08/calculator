@@ -20,3 +20,6 @@
 2023-11-11 17:41:55.934 [main] INFO  org.example.Main - program completed
 2023-11-12 10:35:29.688 [main] INFO  org.example.Main - program started
 2023-11-12 10:35:35.907 [main] WARN  org.example.Main - division by zero error
+2023-11-12 11:08:23.390 [main] INFO  org.example.Main - program started
+2023-11-12 11:08:26.551 [main] INFO  org.example.Main - multiplication completed
+2023-11-12 11:08:26.558 [main] INFO  org.example.Main - program completed
